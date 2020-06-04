@@ -7,7 +7,7 @@ How to reproduce the problem.
 ```PowerShell
 cd  LibraryCPP
 ```
-2. Execute the following command on the machine where **Visual Studio Build Tools 2019 ** v16.6.x
+2. Execute the following command on the machine where **Visual Studio Build Tools 2019** v16.6.x
 is installed:  
 ```PowerShell
 .\LibraryCPP.Tools.Build.ps1
@@ -115,7 +115,7 @@ MBBuild OK for building LibraryCPP.2019.vcxproj
 ====# LibraryCPP TOOLS END BUILD #====
 0
 ```
-4. With **Visual Studio** with latest version (16.6.x), we have the same good output:  
+4. When using the full **Visual Studio 2019** with latest version (16.6.x), we have the same good output:  
 ```PowerShell
 ====# LibraryCPP TOOLS START BUILD #====
 MBBuild begin for building LibraryCPP.2019.vcxproj
